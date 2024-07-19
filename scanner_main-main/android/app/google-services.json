@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613391639640",
+    "firebase_url": "https://database-6fee2.firebaseio.com",
+    "project_id": "database-6fee2",
+    "storage_bucket": "database-6fee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613391639640:android:207aeaf488448e1db9162d",
+        "android_client_info": {
+          "package_name": "com.dahlan.scanner_main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613391639640-vggi5j5v11566d1klm9dvtn897j85gkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXo209ISYIuo_Mu0JdC9efrhx1_S77Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613391639640-vggi5j5v11566d1klm9dvtn897j85gkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

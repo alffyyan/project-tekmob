@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAqg-L1lghwLzPSKIpJFGnkZsEzllEoLlk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>613391639640</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dahlan.scannerMain</string>
+	<key>PROJECT_ID</key>
+	<string>database-6fee2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>database-6fee2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:613391639640:ios:4b4c2d1b96e9a51cb9162d</string>
+	<key>DATABASE_URL</key>
+	<string>https://database-6fee2.firebaseio.com</string>
+</dict>
+</plist>
